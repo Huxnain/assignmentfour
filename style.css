@@ -1,0 +1,115 @@
+@charset "utf-8";
+/* CSS Document */
+
+.navbar a:hover{
+	
+	
+}
+.navbar-brand img{
+	height:150%
+}
+.icon-bar{
+	background-color:#EEE;
+}
+.navbar-toggle{
+	background-color:#906;
+}
+.jumbotron{
+	padding-top:0;
+	height:auto;
+	margin:0 auto;
+	width:100%;
+	background-color:transparent;
+	filter:brightness(80%);
+}
+#caro-img{
+	height:700px;
+	width:100%;
+}
+input, textarea{
+	width:100%;
+	height:auto;
+}
+#abc{
+	transition:all 0.8s;
+	
+	}
+#parallax{
+	background-image:url('parallax%20(2).jpg');
+	background-attachment:fixed;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:auto;
+	height:160px;
+	
+	}	
+	#parallax2{
+	background-image:url('parallax%20(3).jpg');
+	background-attachment:fixed;
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:auto;
+	height:160px;
+	
+	}	
+	#fb, #tweet, #linkin, #insta{
+		background-color:#BBB;
+		height:auto;
+		width:23%;
+		opacity:.8;
+	}
+		
+	#fb:hover{
+		background-color:#03F;
+		color:white;
+	}
+	#tweet:hover{
+		background-color:#3CF;
+		color:white;}
+	#linkin:hover{
+		background-color:#3CF;
+		color:white;}
+	#insta:hover{
+		background-color:#AAA;
+		color:white;}
+	
+#sec1,#sec2,#sec3{
+	padding-top:50px;
+	
+}
+.social .fa-facebook:hover 
+{background: #4060A5;}
+
+.social .fa-twitter:hover 
+{background: #00ABE3;}
+
+.social .fa-google-plus:hover 
+{background: #e64522;}
+
+.social .fa-pinterest:hover 
+{background: #cb2027;}
+
+.social .fa-instagram:hover 
+{background: #375989;}
+
+.social .fa-skype:hover 
+{background: #00C6FF;}
+
+.social .fa-youtube:hover 
+{background: #FF1F25;}
+
+footer
+ {background-color:#; 
+  color:white;}
+.social ul li {
+    
+    display:inline;}
+
+.social i {
+    width: 40px;
+    height: 40px;
+    color: #FFF;
+    background-color: #909AA0;
+    font-size: 22px;
+    text-align:center;
+    padding-top:12px;}
